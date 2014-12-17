@@ -15,7 +15,7 @@
         </ul>
         <?php if(LoggedInUserIsAdmin()) : ?>
 
-        <h3>Administration Manager</h3>
+        <h3>Administration Manager View</h3>
         <ul>
             <li>
                 <a href="/?action=editusers" title="Edit Users">
