@@ -49,10 +49,10 @@
                 <p>Arizona State University, Arizona - Criminal Justice - Bachelor's Degree</p>
                 <p>Mesa Community College, Arizona - Associates</p>
             </li>
-            <br />
-            <br />
         </ul>
         </div>
     </div>
+</div>
+</div>
 </div>
 <!-- =========================END Contact Two.PHP========================= -->

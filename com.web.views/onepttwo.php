@@ -20,7 +20,6 @@
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brand new in house Engine!</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introducing Swimming and Climbing!</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full 360 camera control</li>
-                            <br />
                             <li>
                                 <p class="whiteColor">ETA: Fall 2017</p><br /><br />
                             </li>
@@ -39,9 +38,11 @@
                             <li><h4>The Kalai</h4>
                                 <p>Translated as The Hunters, the Kalai are somewhat of a reclusive branch and are often found outside of normal spriggan settlements. They are wanders, and largely hunt game and other forms of animal life for food - unlike most spriggan societies who sustain mostly a vegetarian based diet. Tallest of the Spriggans, with a height of 4’5”-4’9” Small, pointed ears. Usually athletic in appearance. Can usually be found with an animal hunting companion.</p>
                             </li>
-                            <br />
-                            <br />
-                            <li><button><a href="/index.php?action=oneptthree" title="Dawnstone: Chapter 4">Dawnstone: Chapter 4</a></button></li>
+                            <li>
+                                <a href="/index.php?action=oneptthree" title="Dawnstone: Chapter 4">
+                                    <img src="com.web.images/dawnstone_4.png" alt="dawnstone 4" title="dawnstone 4" />
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>

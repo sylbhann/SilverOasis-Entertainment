@@ -20,7 +20,6 @@
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Purchase today and get 1 keycode free!</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiplayer!!</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full 360 camera control</li>
-                            <br />
                             <li>
                                 <p class="whiteColor">ETA: Fall 2018</p><br /><br />
                             </li>
@@ -42,9 +41,11 @@
                             <li><h4></h4>
                                 <p></p>
                             </li>
-                            <br />
-                            <br />
-                            <li><button><a href="/index.php?action=oneptfour" title="Dawnstone: Chapter 5">Dawnstone: Chapter 5</a></button></li>
+                            <li>
+                                <a href="/index.php?action=oneptfour" title="Dawnstone: Chapter 5">
+                                    <img src="com.web.images/dawnstone_5.png" alt="dawnstone 5" title="dawnstone 5" />
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>

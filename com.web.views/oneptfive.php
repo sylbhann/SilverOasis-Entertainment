@@ -21,9 +21,8 @@
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now Available on the PS7, Wii2k20 and Xrectangle!</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developer's Edition is now out! $299.99!</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introducing Talents, Classes, Professions and Spriggan/Guild Homes!</li>
-                            <br />
                             <li>
-                                <p class="whiteColor">ETA: Fall 2020</p><br /><br />
+                                <p class="whiteColor">ETA: Fall 2020</p>
                             </li>
                         </ul>
                         <h3>New Professions!</h3>
@@ -40,7 +39,7 @@
                             </li>
                             <li><h4>Woodscrafting</h4>
                                 <p>Architectural</p>
-                            </li><br /><br />
+                            </li>
                         </ul>
                         <h3>New Classes!</h3>
                         <ul>
@@ -54,8 +53,6 @@
                                 <p>Allows the player more access to Spriggan lore, and cultural information.</p>
                             </li>
                             <li><h4></h4><p></p></li>
-                            <br />
-                            <br />
                         </ul>
                     </div>
                 </div>

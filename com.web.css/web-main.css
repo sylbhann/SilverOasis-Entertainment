@@ -301,7 +301,7 @@ header ul li #menu5:hover, header ul li.selected #menu5 {
 #body div div .section div div span a:hover {
 	color: #fff;
 }
-//indistone
+/* -----=indistone=----- */
 #body .indistone, #body .games, #body .about, #body .blog {
 	margin: 0;
 	padding: 24px 0;
@@ -429,7 +429,7 @@ header ul li #menu5:hover, header ul li.selected #menu5 {
 #body .indistone .article ul li p a:hover {
 	color: #a3a3a3;
 }
-//media
+/* -----=media=----- */
 #body .media, #body .games, #body .about, #body .blog {
 	margin: 0;
 	padding: 24px 0;
@@ -552,7 +552,7 @@ header ul li #menu5:hover, header ul li.selected #menu5 {
 #body .media .article ul li p a:hover {
 	color: #a3a3a3;
 }
-//GAMES
+/* -----=GAMES=----- */
 #body .games {
 	overflow: hidden;
 }
@@ -1081,37 +1081,3 @@ li .whiteColor {
 .mobi.tablet.landscape #sidebar {
     display: block; width: 35%;
 }
-
-//BUTTON for NEXT PAGE
-button {
-  background: #8e989e;
-  background-image: -webkit-linear-gradient(top, #8e989e, #373838);
-  background-image: -moz-linear-gradient(top, #8e989e, #373838);
-  background-image: -ms-linear-gradient(top, #8e989e, #373838);
-  background-image: -o-linear-gradient(top, #8e989e, #373838);
-  background-image: linear-gradient(to bottom, #8e989e, #373838);
-  -webkit-border-radius: 11px;
-  -moz-border-radius: 11px;
-  border-radius: 11px;
-  -webkit-box-shadow: 0px 1px 3px #666666;
-  -moz-box-shadow: 0px 1px 3px #666666;
-  box-shadow: 0px 1px 3px #666666;
-  font-family: Georgia;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-button:hover {
-  background: #d6e0e6;
-  background-image: -webkit-linear-gradient(top, #d6e0e6, #a6aaad);
-  background-image: -moz-linear-gradient(top, #d6e0e6, #a6aaad);
-  background-image: -ms-linear-gradient(top, #d6e0e6, #a6aaad);
-  background-image: -o-linear-gradient(top, #d6e0e6, #a6aaad);
-  background-image: linear-gradient(to bottom, #d6e0e6, #a6aaad);
-  text-decoration: none;
-}
-
-
-
-

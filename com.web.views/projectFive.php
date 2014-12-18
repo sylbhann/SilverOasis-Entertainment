@@ -37,8 +37,6 @@
                             <li>
                                 <p>Mauris dapibus magna vitae sagittis pretium. Nullam sit amet lacus scelerisque, fringilla nulla et, egestas urna. Donec turpis velit, lobortis ac sapien sit amet, gravida gravida ligula. Donec ut massa dui. Praesent sed felis pretium, pulvinar leo vitae, bibendum turpis. Quisque sit amet tortor at libero convallis pharetra vel eget ligula.</p>
                             </li>
-                            <br />
-                            <br />
                         </ul>
                     </div>
                 </div>

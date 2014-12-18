@@ -22,7 +22,6 @@
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beautiful Graphics Engine</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Story-driven world</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talents, Spells, Skills, Factions and Honor</li>
-                            <br />
                             <li>
                                 <p class="whiteColor">ETA: 2017</p>
                             </li>
@@ -38,8 +37,6 @@
                             <li>
                                 <p>Mauris dapibus magna vitae sagittis pretium. Nullam sit amet lacus scelerisque, fringilla nulla et, egestas urna. Donec turpis velit, lobortis ac sapien sit amet, gravida gravida ligula. Donec ut massa dui. Praesent sed felis pretium, pulvinar leo vitae, bibendum turpis. Quisque sit amet tortor at libero convallis pharetra vel eget ligula.</p>
                             </li>
-                            <br />
-                            <br />
                         </ul>
                     </div>
                 </div>

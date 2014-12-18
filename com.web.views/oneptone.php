@@ -20,7 +20,6 @@
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beautiful Graphics Engine</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introducing Combat!</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full 360 camera control</li>
-                            <br />
                             <li>
                                 <p class="whiteColor">ETA: Fall 2016</p><br /><br />
                             </li>
@@ -39,9 +38,11 @@
                             <li>
                                 <p>The great dome connects to passages leading to the north, south, west and east. These are the main districts carved around the greatest roots of Anubhain. The Spriggans attention to detail spares no disinterest to the “tall ones,” for those elves or humans that do visit, between the outer-ward roots in the southern grounds.</p>
                             </li>
-                            <br />
-                            <br />
-                            <li><button><a href="/index.php?action=onepttwo" title="Dawnstone: Chapter 3">Dawnstone: Chapter 3</a></button></li>
+                            <li>
+                                <a href="/index.php?action=onepttwo" title="Dawnstone: Chapter 3">
+                                    <img src="com.web.images/dawnstone_3.png" alt="dawnstone 3" title="dawnstone 3" />
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>

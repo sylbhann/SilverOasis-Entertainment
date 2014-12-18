@@ -53,10 +53,10 @@
                 <p>Bainbridge College - Generals</p>
                 <p>Southwest Georgia Academy - High School Diploma</p>
             </li>
-            <br />
-            <br />
         </ul>
         </div>
     </div>
+</div>
+</div>
 </div>
 <!-- =========================END Contact Four.PHP========================= -->

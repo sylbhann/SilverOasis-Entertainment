@@ -20,9 +20,8 @@
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quality Sound from a London Orchestra</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Partnered with Blizzard Entertainment</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First ever choice of Top-Down and First Person</li>
-                            <br />
                             <li>
-                                <p class="whiteColor">ETA: Fall 2019</p><br /><br />
+                                <p class="whiteColor">ETA: Fall 2019</p>
                             </li>
                         </ul>
                         <h3>New Dungeon Temples!</h3>
@@ -53,9 +52,11 @@
                             <li><h4></h4>
                                 <p></p>
                             </li>
-                            <br />
-                            <br />
-                            <li><button><a href="/index.php?action=oneptfive" title="Dawnstone: Chapter 6">Dawnstone: Chapter 6</a></button></li>
+                            <li>
+                                <a href="/index.php?action=oneptfive" title="Dawnstone: Chapter 6">
+                                    <img src="com.web.images/dawnstone_6.png" alt="dawnstone 6" title="dawnstone 6" />
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>

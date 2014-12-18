@@ -60,10 +60,10 @@
                 <p>Arizona State University, Arizona - Ancient Language and Culture, English - Doctorate's Certificate</p>
                 <p>University of Arizona, Arizona - Business Analyst and Marketeer - Master's Certificate</p>
             </li>
-            <br />
-            <br />
         </ul>
         </div>
     </div>
+</div>
+</div>
 </div>
 <!-- =========================END Contact One.PHP========================= -->

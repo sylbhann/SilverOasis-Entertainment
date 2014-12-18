@@ -22,9 +22,8 @@
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beautiful Graphics Engine</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 classes, achievements, 6 new areas</li>
                             <li class="whiteColor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full 360 camera control</li>
-                            <br />
                             <li>
-                                <p class="whiteColor">ETA: Fall 2015</p><br /><br />
+                                <p class="whiteColor">ETA: Fall 2015</p>
                             </li>
                         </ul>
                         <h3>What is a Spriggan?</h3>
@@ -50,9 +49,11 @@
                             <li>
                                 <p>They are rather small beings. Their average height being around 3’5” to 3’8” in standing height. They are athletic in build, similar to the look of a tiny human. They are usually of fair skin, with light to dark red or brown hair. They have a variation of blue, green, or violet eyes. They have small pointed ears, and the women often wear a decoration of feathers in certain bodily arrangements. They are rather merry folk, but serious in tone of life.</p>
                             </li>
-                            <br />
-                            <br />
-                            <li><button><a href="/index.php?action=oneptone" title="Dawnstone: Chapter 2">Dawnstone: Chapter 2</a></button></li>
+                            <li>
+                                <a href="/index.php?action=oneptone" title="Dawnstone: Chapter 2">
+                                    <img src="com.web.images/dawnstone_2.png" alt="dawnstone 2" title="dawnstone 2" />
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
