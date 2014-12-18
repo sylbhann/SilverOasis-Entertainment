@@ -5,7 +5,7 @@
                         <h3>Dawnstone: Chapter Four</h3>
                         <ul>
                             <li>
-                                <img src="com.web.images/icons/icon152-2.png" class="figure" alt="image"/>
+                                <img src="com.web.images/icons/icon152-2.png" class="picimg" alt="image"/>
                             </li>
                             <li>
                                 <p class="weightBold">Top-down RPG exploratory adventure where you play as the curious 

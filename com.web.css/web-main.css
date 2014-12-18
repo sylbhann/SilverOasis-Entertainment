@@ -23,6 +23,12 @@ span span {
 	line-height:1;
 }
 
+.picimg {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 /* -----=BODY=----- */
 body {
 	background: url(/com.web.images/bg-body.jpg) repeat;
@@ -1067,6 +1073,7 @@ li .whiteColor {
     text-align: center;
     font-size: 14px;
 }
+
 /** For Desktops **/
 #sidebar {
     display: block; float: right; width: 320px;
